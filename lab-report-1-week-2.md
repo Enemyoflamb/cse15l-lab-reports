@@ -1,4 +1,5 @@
-# Getting Started
+# LAB 2
+## Getting Started
 > "It's harder to read code than to write it" - Joel Spolsky
 
 ### Installing Visual Studio Code
@@ -20,7 +21,7 @@ You can find that [here](https://sdacs.ucsd.edu/~icc/index.php
 
 **It is highly advised NOT to change your password through this lab. More than one student, including me, has gotten issues when doing that.**
 
-# The Actual Lab Portion
+## The Actual Lab Portion
 
 * Make sure to ask when you have questions or things constantly break
 
