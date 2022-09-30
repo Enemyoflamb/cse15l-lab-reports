@@ -1,4 +1,4 @@
-# LAB 2
+# LAB 1
 ## Getting Started
 > "It's harder to read code than to write it" - Joel Spolsky
 
