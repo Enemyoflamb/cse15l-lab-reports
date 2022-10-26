@@ -1,4 +1,5 @@
-# Part 1
+# Lab 2
+## Part 1
 
 *Below is the Code for the Simplest Search Engine:*
 
