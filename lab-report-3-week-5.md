@@ -6,6 +6,8 @@
 
 ```-iname is an option find files case insensitively.```
 
+This option is useful as it saves time; case insensitivity means that the script writer doesn't need to manually check for different upper/lower case combinations.
+
 Example 1: 
 ``` $ find -iname "*CHAPTER*.txt"```
 returns
@@ -52,6 +54,8 @@ Example 3:
 
 * In these examples, I have changed ./911report/chapter-1.txt recently in the /technical folder.
 
+This option is useful for finding recent changes for version control; it may also help isolate certain files that cause problems due to recent changes. 
+
 Example 1: 
 ```$ find -cmin -5``` returns
 ```
@@ -92,6 +96,9 @@ Example 3:
 >This tells us that Jerry has in fact, forgotten to save his work, but at least he didn't need to manually check the text!
 
 ## path
+
+This option is helpful as it returns exact paths of the input string; its main use is just for navigation.
+
 Example 1: 
 ```$ find -path "*chapter*.txt"``` returns
 ```
