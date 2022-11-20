@@ -15,9 +15,9 @@ Below are the three screenshots for the GradeServer implementation with differen
 
 ![Image](w2assets/11.19.1.png)
 
-![Image](w2assets/11.14.1.png)
+![Image](w2assets/11.19.2.png)
 
-![Image](w2assets/11.14.1.png)
+![Image](w2assets/11.19.3.png)
 
 ## Script Tracing
 
