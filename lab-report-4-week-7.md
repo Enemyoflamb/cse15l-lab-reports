@@ -4,7 +4,7 @@ Task: "In DocSearchServer.java, change the name of the start parameter of getFil
 
 This is the file I have when opening up DocSearchServer.java using `` vim DocSearchServer.java``
 
-![Image](/cse15l-lab-reports/w2assets/11.14.1.png)
+![Image](w2assets/11.14.1.png)
 
 The Shortest Sequence I found was 
 ```
@@ -12,31 +12,31 @@ The Shortest Sequence I found was
 ```
 
 1. First, I use ``/start`` to navigate to the first start
-![Image](/cse15l-lab-reports/w2assets/11.14.start1.png)
+![Image](w2assets/11.14.start1.png)
 
 2. Then, I press ``x`` five times to delete the word: 
-![Image](/cse15l-lab-reports/w2assets/11.14.3.png)
+![Image](w2assets/11.14.3.png)
 
 3. Then, I press ``i`` to go into insert mode and follow with ``b a s e`` to type in base; then you ``<esc>`` to return to normal mode.
-![Image](/cse15l-lab-reports/w2assets/11.14.4.png)
+![Image](w2assets/11.14.4.png)
 
 4. I use ``/start`` again to navigate to the 2nd start
-![Image](/cse15l-lab-reports/w2assets/11.14.start2.png)
+![Image](w2assets/11.14.start2.png)
 
 5. Then, I press ``x`` five more times to delete the word: 
-![Image](/cse15l-lab-reports/w2assets/11.14.5.png)
+![Image](w2assets/11.14.5.png)
 
 6. Then, I press ``i`` to go into insert mode and follow with ``b a s e`` to type in base; then you ``<esc>`` to return to normal mode.
-![Image](/cse15l-lab-reports/w2assets/11.14.6.png)
+![Image](w2assets/11.14.6.png)
 
 7. I use ``/start`` again to navigate to the last start
-![Image](/cse15l-lab-reports/w2assets/11.14.start3.png)
+![Image](w2assets/11.14.start3.png)
 
 8. Then, I press ``x`` five more times to delete the word: 
-![Image](/cse15l-lab-reports/w2assets/11.14.7.png)
+![Image](w2assets/11.14.7.png)
 
 9. Then, I press ``i`` to go into insert mode and follow with ``b a s e`` to type in base. Then you ``<esc>`` to return to normal mode.
-![Image](/cse15l-lab-reports/w2assets/11.14.8.png)
+![Image](w2assets/11.14.8.png)
 
 Lastly, you do ``:eq`` to exit and save the file.
 
